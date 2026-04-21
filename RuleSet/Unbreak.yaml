@@ -59,7 +59,3 @@ payload:
 
   # > BOC HK
   - DOMAIN-SUFFIX,bochk.com
-
-  # > ziniao
-  # - PROCESS-NAME,*ziniao*
-  # - PROCESS-NAME-REGEX,.*ziniao.*
